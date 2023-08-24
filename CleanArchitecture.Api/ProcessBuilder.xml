@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CleanArchitecture.Api</name>
+    </assembly>
+    <members>
+        <member name="M:CleanArchitecture.Api.Controllers.NotesController.Get(CleanArchitecture.Application.Notes.Queries.GetNotes.GetNotesQuery)">
+            <summary>
+            Returns all the Application Processes
+            </summary>
+            <param name="query"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
