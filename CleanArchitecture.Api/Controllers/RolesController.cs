@@ -1,7 +1,7 @@
-﻿using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Mvc;
-using CleanArchitecture.Application.Roles.Queries.GetRoles;
+﻿using CleanArchitecture.Application.Roles.Queries.GetRoles;
 using CleanArchitecture.Infrastructure.Models.Get;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using System.Net.Mime;
 
 namespace CleanArchitecture.Api.Controllers

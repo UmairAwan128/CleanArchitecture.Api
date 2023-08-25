@@ -11,7 +11,7 @@ using System.Net.Mime;
 namespace CleanArchitecture.Api.Controllers
 {
     [Route("api/Notes")]
-    [Authorize(Roles = "User")]
+    [Authorize(Roles = "Administrator, User")]
     [Produces(MediaTypeNames.Application.Json)]
     [Consumes(MediaTypeNames.Application.Json)]
     public class NotesController : ApiControllerBase
