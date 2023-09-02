@@ -1,4 +1,4 @@
-﻿namespace CleanArchitecture.Infrastructure.Exceptions
+﻿namespace CleanArchitecture.Application.Common.Exceptions
 {
     public class InternalServerErrorException : Exception
     {

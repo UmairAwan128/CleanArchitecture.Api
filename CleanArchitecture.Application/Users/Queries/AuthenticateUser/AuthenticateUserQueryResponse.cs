@@ -1,4 +1,4 @@
-﻿using CleanArchitecture.Infrastructure.Models.Get;
+﻿using CleanArchitecture.Application.Models.Get;
 
 namespace CleanArchitecture.Application.Users.Queries.AuthenticateUser
 {

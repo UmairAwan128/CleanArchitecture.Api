@@ -1,6 +1,6 @@
-﻿using CleanArchitecture.Infrastructure.Common;
-using CleanArchitecture.Infrastructure.Extensions;
-using CleanArchitecture.Infrastructure.Identity;
+﻿using CleanArchitecture.Application.Common;
+using CleanArchitecture.Application.Common.Extensions;
+using CleanArchitecture.Application.Common.Interfaces;
 using MediatR;
 
 namespace CleanArchitecture.Application.Notes.Queries.GetNotes

@@ -1,4 +1,4 @@
-﻿namespace CleanArchitecture.Infrastructure.Helpers
+﻿namespace CleanArchitecture.Application.Common.Extensions
 {
     using BCrypt = BCrypt.Net.BCrypt;
 

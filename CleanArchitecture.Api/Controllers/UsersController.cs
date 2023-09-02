@@ -1,9 +1,9 @@
-﻿using CleanArchitecture.Application.Users.Commands.DeleteUser;
+﻿using CleanArchitecture.Application.Models.Get;
+using CleanArchitecture.Application.Users.Commands.DeleteUser;
 using CleanArchitecture.Application.Users.Commands.UpdatePassword;
 using CleanArchitecture.Application.Users.Commands.UpdateUser;
 using CleanArchitecture.Application.Users.Queries.GetUserById;
 using CleanArchitecture.Application.Users.Queries.GetUsers;
-using CleanArchitecture.Infrastructure.Models.Get;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Net.Mime;

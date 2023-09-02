@@ -1,4 +1,4 @@
-﻿namespace CleanArchitecture.Infrastructure.Models.Get
+﻿namespace CleanArchitecture.Application.Models.Get
 {
     public record GetRoleModel : RoleModel
     {

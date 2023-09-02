@@ -1,7 +1,6 @@
-﻿using CleanArchitecture.Infrastructure.Common;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 
-namespace CleanArchitecture.Infrastructure.Extensions
+namespace CleanArchitecture.Application.Common.Extensions
 {
     public static class MappingExtensions
     {

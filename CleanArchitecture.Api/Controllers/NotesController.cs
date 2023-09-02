@@ -1,9 +1,9 @@
-﻿using CleanArchitecture.Application.Notes.Commands.CreateNote;
+﻿using CleanArchitecture.Application.Common;
+using CleanArchitecture.Application.Notes.Commands.CreateNote;
 using CleanArchitecture.Application.Notes.Commands.DeleteNote;
 using CleanArchitecture.Application.Notes.Commands.UpdateNote;
 using CleanArchitecture.Application.Notes.Queries.GetNoteById;
 using CleanArchitecture.Application.Notes.Queries.GetNotes;
-using CleanArchitecture.Infrastructure.Common;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Net.Mime;

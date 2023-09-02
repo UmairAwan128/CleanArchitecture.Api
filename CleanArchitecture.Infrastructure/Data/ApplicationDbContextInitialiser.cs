@@ -1,6 +1,6 @@
-﻿using CleanArchitecture.Domain.Entities;
+﻿using CleanArchitecture.Application.Common.Extensions;
+using CleanArchitecture.Domain.Entities;
 using CleanArchitecture.Infrastructure.Constants;
-using CleanArchitecture.Infrastructure.Helpers;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 

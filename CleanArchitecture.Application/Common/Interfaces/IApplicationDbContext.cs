@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 
-namespace CleanArchitecture.Infrastructure.Common
+namespace CleanArchitecture.Application.Common.Interfaces
 {
     public interface IApplicationDbContext
     {

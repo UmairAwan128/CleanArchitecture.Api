@@ -1,5 +1,5 @@
-﻿using CleanArchitecture.Infrastructure.Common;
-using CleanArchitecture.Infrastructure.Models.Get;
+﻿using CleanArchitecture.Application.Common.Interfaces;
+using CleanArchitecture.Application.Models.Get;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
 

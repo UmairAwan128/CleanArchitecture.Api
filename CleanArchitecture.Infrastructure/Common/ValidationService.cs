@@ -1,7 +1,7 @@
-﻿using CleanArchitecture.Infrastructure.Common;
+﻿using CleanArchitecture.Application.Common.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
-namespace CleanArchitecture.Application.Common
+namespace CleanArchitecture.Infrastructure.Common
 {
     public class ValidationService : IValidationService
     {

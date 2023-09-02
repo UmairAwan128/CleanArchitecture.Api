@@ -1,5 +1,5 @@
-﻿using CleanArchitecture.Application.Roles.Queries.GetRoles;
-using CleanArchitecture.Infrastructure.Models.Get;
+﻿using CleanArchitecture.Application.Models.Get;
+using CleanArchitecture.Application.Roles.Queries.GetRoles;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Net.Mime;

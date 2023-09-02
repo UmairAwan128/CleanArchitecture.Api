@@ -1,6 +1,6 @@
-﻿using CleanArchitecture.Infrastructure.Models.Get;
+﻿using CleanArchitecture.Application.Models.Get;
 
-namespace CleanArchitecture.Infrastructure.Identity
+namespace CleanArchitecture.Application.Common.Interfaces
 {
     public interface ISecurityContext
     {

@@ -1,4 +1,4 @@
-﻿namespace CleanArchitecture.Infrastructure.Models
+﻿namespace CleanArchitecture.Application.Models
 {
     public record RoleModel
     {

@@ -1,8 +1,7 @@
-﻿using CleanArchitecture.Domain.Entities;
-using CleanArchitecture.Infrastructure.Common;
-using CleanArchitecture.Infrastructure.Exceptions;
-using CleanArchitecture.Infrastructure.Helpers;
-using CleanArchitecture.Infrastructure.Identity;
+﻿using CleanArchitecture.Application.Common.Exceptions;
+using CleanArchitecture.Application.Common.Extensions;
+using CleanArchitecture.Application.Common.Interfaces;
+using CleanArchitecture.Domain.Entities;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
 

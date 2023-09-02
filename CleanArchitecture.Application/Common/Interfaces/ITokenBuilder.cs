@@ -1,4 +1,4 @@
-﻿namespace CleanArchitecture.Infrastructure.Identity.Auth
+﻿namespace CleanArchitecture.Application.Common.Interfaces
 {
     public interface ITokenBuilder
     {
